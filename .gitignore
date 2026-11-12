@@ -1,0 +1,8 @@
+build/
+*.class
+__pycache__/
+decrypted-file-*.txt
+new_students.txt
+solution_output.txt
+
+.DS_Store

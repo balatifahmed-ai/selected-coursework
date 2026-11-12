@@ -1,0 +1,2 @@
+D01,Demo Student,student@example.org,0000000000,A
+ATTENDANCE,2025-05-10,PRESENT,On time
